@@ -1,7 +1,8 @@
 import './App.css';
+import CarSelector from "./components/CarSelector";
 
 function App() {
-    return (<div></div>);
+    return (<CarSelector/>);
 
 }
 
